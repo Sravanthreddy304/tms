@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
-define('DB_NAME','tms');
+define('DB_HOST','sql306.infinityfree.com');
+define('DB_USER','if0_42138111');
+define('DB_PASS','Sravanthmsd304');
+define('DB_NAME','if0_42138111_tms');
 // Establish database connection.
 try
 {
