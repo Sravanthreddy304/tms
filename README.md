@@ -1,5 +1,5 @@
 # tms
-
+```
 # 🌍 ExploreHub – Tourist Management System
 
 ## Overview
@@ -59,7 +59,7 @@ Built using **HTML5, CSS3, JavaScript, PHP, MySQL, and XAMPP**, the system combi
 3. Import the provided MySQL database using **phpMyAdmin**.
 4. Start **Apache** and **MySQL** from the XAMPP Control Panel.
 5. Access the application through your local server or the deployed website.
-
+```
 ## Project Structure
 
 ```text
@@ -82,3 +82,8 @@ ExploreHub/
 
 * GitHub: https://github.com/Sravanthreddy304
 
+  ![output](explorehub.png)
+
+
+
+`
